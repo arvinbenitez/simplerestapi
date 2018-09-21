@@ -11,7 +11,7 @@ npm start
 
 To expose this to the world, install either localtunnel or ngrok
 
-Using localtunnel
+Using localtunnel (https://localtunnel.github.io/www)
 
 ```
 npm install -g localtunnel
