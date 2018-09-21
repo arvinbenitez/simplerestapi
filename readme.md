@@ -23,13 +23,13 @@ Then on the command line
 lt --port xxxx --subdoman whateverfanciesyou
 ```
 
-For ngrok
+For ngrok 
 
-Download the binary
+Download the binary from https://ngrok.com/
 
 On the command line
 
 ```
-ngrok http xxxx
+ngrok http {{portnumber}}
 ```
 where xxxx is the port you want to listen to. I find ngrok to have a more consistent behaviour
