@@ -1,6 +1,6 @@
 # Node Express API
 
-Simple code that runs creates an API using Node and Express
+Simple code that runs an get/post API using Node and Express. Comes in handy when anyone wants to spin up a test API in a few minutes and be able to expose it to the world.
 
 -----------------------
 
